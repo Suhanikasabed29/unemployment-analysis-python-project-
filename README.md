@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unemployment Analysis with Python
 
 ## Project objective
@@ -71,3 +72,6 @@ The COVID-period comparison is descriptive, not a causal econometric estimate. T
 - Dates are converted to datetime so monthly trends can be analyzed.
 - The COVID comparison uses pre-COVID observations versus the April-June 2020 period in the detailed dataset.
 - Rural and Urban observations are compared where the detailed dataset contains the `Area` column.
+=======
+# unemployment-analysis-python-project-
+>>>>>>> 54af35b6cf839632c195863f57ebc207618c570b
