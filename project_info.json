@@ -1,0 +1,29 @@
+{
+  "project": "Unemployment Analysis with Python",
+  "language": "Python",
+  "source_files": [
+    "Unemployment in India.csv",
+    "Unemployment_Rate_upto_11_2020.csv"
+  ],
+  "libraries": [
+    "pandas",
+    "numpy",
+    "matplotlib"
+  ],
+  "generated_outputs": [
+    "outputs/analysis_report.txt",
+    "outputs/charts/01_national_unemployment_trend.png",
+    "outputs/charts/02_covid_impact.png",
+    "outputs/charts/03_top_regions_average_unemployment.png",
+    "outputs/charts/04_rural_vs_urban.png",
+    "outputs/charts/05_seasonal_pattern.png",
+    "outputs/charts/06_employment_vs_unemployment.png",
+    "outputs/cleaned_unemployment_2020.csv",
+    "outputs/cleaned_unemployment_india.csv",
+    "outputs/covid_impact_summary.csv",
+    "outputs/monthly_national_trend.csv",
+    "outputs/region_summary.csv",
+    "outputs/rural_urban_summary.csv",
+    "outputs/seasonal_month_summary.csv"
+  ]
+}
